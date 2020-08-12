@@ -1,6 +1,6 @@
 # NODE EXPRESS
 
-## INSTRUCTION
+### INSTRUCTION
 
 1. Open shell, locate the project.
 2. npm install
